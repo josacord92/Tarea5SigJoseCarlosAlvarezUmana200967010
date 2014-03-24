@@ -1,0 +1,7 @@
+north: 10.9375
+south: 10.0625
+east: -84.0625
+west: -84.9375
+rows: 1
+cols: 1
+1 
